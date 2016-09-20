@@ -1,3 +1,3 @@
 # exercise-repo
 
-Creating conflict (cloud)...
+Creating conflict (cloud)...промяна
