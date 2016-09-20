@@ -1,3 +1,6 @@
 # exercise-repo
 
-Creating conflict (local)...ас
+Creating conflict (local)...
+
+Creating conflict (cloud)...
+
